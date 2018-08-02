@@ -1,0 +1,37 @@
+
+C:\Users\student\Desktop>javac Roman.java
+
+C:\Users\student\Desktop>java Roman
+Enter your choice:
+1.Convert a Integer to Roman
+2.Convert a Roman to Integer.
+3.EXIT
+1
+* Conversion of Integer to Roman *
+Enter the Integer value=
+456
+CDLVI
+Enter your choice:
+1.Convert a Integer to Roman
+2.Convert a Roman to Integer.
+3.EXIT
+2
+Enter a Roman number:
+VIII
+Decimal Number stored is: 8
+Enter your choice:
+1.Convert a Integer to Roman
+2.Convert a Roman to Integer.
+3.EXIT
+1
+* Conversion of Integer to Roman *
+Enter the Integer value=
+7986
+Exception= java.lang.NumberFormatException:
+Enter a valid value less than 3999 but greater than zero
+
+Enter your choice:
+1.Convert a Integer to Roman
+2.Convert a Roman to Integer.
+3.EXIT
+3
