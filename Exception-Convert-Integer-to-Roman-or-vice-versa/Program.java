@@ -113,13 +113,13 @@ public class Roman
 	void test()
 	{
 		int n,ch;
+		Scanner sc=new Scanner(System.in);
 		do	
 		{
 			System.out.println("Enter your choice:");
 			Roman rmtoD = new Roman();
 			System.out.println("1.Convert a Integer to Roman\n2.Convert a Roman to Integer.\n3.EXIT");	
 			ch=sc.nextInt();
-			Scanner sc=new Scanner(System.in);
 			switch(ch)
 			{
 				case 1:System.out.println (rmtoD.IntegerToRoman());
