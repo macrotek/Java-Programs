@@ -1,6 +1,6 @@
 /*
 Author : Shubham Patil
-Program Name : Concept of Exception with Conveting Roman to Integer or vice versa 
+Program Name : Concept of Exception with Converting Roman to Integer or vice versa 
 */
 
 import java.util.*;
@@ -16,7 +16,7 @@ public class Roman
         int repeat,n;
         int magnitude[]={1000,900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
         String symbol[]={"M","CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
-        System.out.println("* Coversion of Integer to Roman *");
+        System.out.println("* Conversion of Integer to Roman *");
      	System.out.println("Enter the Integer value=");
 		Scanner sc=new Scanner(System.in);
 		n=sc.nextInt();
